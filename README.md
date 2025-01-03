@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your dungeon crawler game. This document assumes that the audience is familiar with Python and has some experience running Python scripts.
-
----
 
 # Advanced Dungeon Crawler Game
 
